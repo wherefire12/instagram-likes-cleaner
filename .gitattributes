@@ -1,0 +1,4 @@
+# Preserve the recovered userscript bytes, including existing line endings.
+*.user.js -text
+*.md text eol=lf
+LICENSE text eol=lf
