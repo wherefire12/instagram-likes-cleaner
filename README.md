@@ -4,7 +4,7 @@ A small Tampermonkey userscript that removes Instagram likes in batches through 
 
 **JavaScript · Tampermonkey · MIT**
 
-[Türkçe kullanım kılavuzu](README.tr.md) · [Changelog](CHANGELOG.md)
+· [Changelog](CHANGELOG.md)
 
 ## What it does
 
